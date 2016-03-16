@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'Hollow world'
+echo 'Hollow world MEGUMI LOVE '
