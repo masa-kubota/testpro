@@ -1,3 +1,2 @@
-
-
-I Love megumi!!
+#!/bin/sh
+echo I Love megumi!!
